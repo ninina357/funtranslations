@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funtranslations/static/css/main.dfe57c1e.css",
+    "main.js": "/funtranslations/static/js/main.11b55042.js",
+    "index.html": "/funtranslations/index.html",
+    "main.dfe57c1e.css.map": "/funtranslations/static/css/main.dfe57c1e.css.map",
+    "main.11b55042.js.map": "/funtranslations/static/js/main.11b55042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe57c1e.css",
+    "static/js/main.11b55042.js"
+  ]
+}

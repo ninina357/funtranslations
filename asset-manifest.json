@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bfuntranslations%7D/static/css/main.dfe57c1e.css",
+    "main.js": "/%7Bfuntranslations%7D/static/js/main.11b55042.js",
+    "index.html": "/%7Bfuntranslations%7D/index.html",
+    "main.dfe57c1e.css.map": "/%7Bfuntranslations%7D/static/css/main.dfe57c1e.css.map",
+    "main.11b55042.js.map": "/%7Bfuntranslations%7D/static/js/main.11b55042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe57c1e.css",
+    "static/js/main.11b55042.js"
+  ]
+}
